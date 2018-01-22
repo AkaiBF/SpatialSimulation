@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpatialSimulation", "Assembly-CSharp.csproj", "{EE4172F3-36EE-A8F7-4CA7-615D9A22E291}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpatialSimulation", "Assembly-CSharp-firstpass.csproj", "{6D3D9106-4FBC-6826-D2C3-AA0AA4EB3539}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE4172F3-36EE-A8F7-4CA7-615D9A22E291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE4172F3-36EE-A8F7-4CA7-615D9A22E291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE4172F3-36EE-A8F7-4CA7-615D9A22E291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE4172F3-36EE-A8F7-4CA7-615D9A22E291}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D3D9106-4FBC-6826-D2C3-AA0AA4EB3539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D3D9106-4FBC-6826-D2C3-AA0AA4EB3539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D3D9106-4FBC-6826-D2C3-AA0AA4EB3539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D3D9106-4FBC-6826-D2C3-AA0AA4EB3539}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
